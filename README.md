@@ -48,15 +48,6 @@ Plants fake API keys and blocks any agent tool call that tries to exfiltrate the
 
 **AI tooling:** ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square&logo=anthropic&logoColor=white) ![Agents](https://img.shields.io/badge/Multi--Agent_Orchestration-6E56CF?style=flat-square)
 
-## 📌 Earlier work
-
-| Project | What |
-|---|---|
-| [Moon-Discord](https://github.com/joonmoogo/Moon-Discord) | Discord clone with WebRTC n:n voice/video (team project) |
-| [CatChess-Client](https://github.com/joonmoogo/CatChess-Client) | Web game client with Three.js + React |
-| [SSR-boost-performance](https://github.com/joonmoogo/SSR-boost-performance) | Next.js blog exploring SSR performance |
-| [react-native-webview-app](https://github.com/joonmoogo/react-native-webview-app) | WebView app with FCM push |
-
 ---
 
 <div align="center">
