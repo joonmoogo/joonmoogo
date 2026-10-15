@@ -30,6 +30,9 @@ I don't use AI as autocomplete — I run it as an engineering team.
 
 ## 🛠 Featured builds
 
+### 🍯 [honeykey](https://github.com/joonmoogo/honeykey) — honeypot secrets for AI coding agents
+Plants fake API keys and blocks any agent tool call that tries to exfiltrate them, even base64'd, reversed or split. Claude Code hook · GitHub Action · prompt-injection red-team suite. Zero dependencies.
+
 ### 🧾 바로양식 · [baroyangsik.com](https://baroyangsik.com)
 201 print-ready A4 document templates generated from a single build pipeline — static, fast, deployed on the edge.
 
