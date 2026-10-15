@@ -30,10 +30,6 @@ I don't use AI as autocomplete — I run it as an engineering team.
 
 ## 🛠 Featured builds
 
-### 🎨 designCanvas — a Figma-class design editor, built with parallel AI agents
-Infinite canvas · real-time multiplayer (Yjs + WebSocket) · auto layout · constraints · components & instances · boolean ops · gradients/blur/blend modes · comments · Dev Mode CSS · SVG/PNG export
-> ~14k lines of TypeScript, no UI framework. Built across three rounds of 5–6 agents working in parallel against a contract I wrote.
-
 ### 🧾 바로양식 · [baroyangsik.com](https://baroyangsik.com)
 201 print-ready A4 document templates generated from a single build pipeline — static, fast, deployed on the edge.
 
